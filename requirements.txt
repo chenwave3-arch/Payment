@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+qrcode
+pillow
+flask
+werkzeug
+gunicorn
